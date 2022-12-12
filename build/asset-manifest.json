@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/%7BUI-Porftolio%7D/static/css/main.f5b4e25b.css",
+    "main.js": "/%7BUI-Porftolio%7D/static/js/main.e08bb60d.js",
+    "static/media/carton.jpeg": "/%7BUI-Porftolio%7D/static/media/carton.1810d9a6f427442b0f7c.jpeg",
+    "static/media/Cleanmaterials.png": "/%7BUI-Porftolio%7D/static/media/Cleanmaterials.fa516d2767b4938f6d58.png",
+    "static/media/Development.png": "/%7BUI-Porftolio%7D/static/media/Development.4b4113ceadea871d384e.png",
+    "static/media/Responsive.png": "/%7BUI-Porftolio%7D/static/media/Responsive.f9a3c2dd4281a328c667.png",
+    "static/media/Personas.png": "/%7BUI-Porftolio%7D/static/media/Personas.5ddd7adef01750a20e14.png",
+    "static/media/Iterative.png": "/%7BUI-Porftolio%7D/static/media/Iterative.ba35fdf83c5fbc7f466f.png",
+    "static/media/egg.png": "/%7BUI-Porftolio%7D/static/media/egg.4241f5a985dfa6871ba2.png",
+    "static/media/logo.svg": "/%7BUI-Porftolio%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%7BUI-Porftolio%7D/index.html",
+    "main.f5b4e25b.css.map": "/%7BUI-Porftolio%7D/static/css/main.f5b4e25b.css.map",
+    "main.e08bb60d.js.map": "/%7BUI-Porftolio%7D/static/js/main.e08bb60d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b4e25b.css",
+    "static/js/main.e08bb60d.js"
+  ]
+}
