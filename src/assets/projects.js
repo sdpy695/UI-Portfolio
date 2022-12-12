@@ -5,12 +5,13 @@ import Pers from "./Personas.png"
 import Dev from "./Development.png"
 import Mat from "./Cleanmaterials.png"
 import Egg from './egg.png'
+import Carton from './carton.jpeg'
 
 const projects = [
 
 
     {"name": "Build a Zoo",
-    "link": "Development/index.html",
+    "link": "development.html",
     "image": Dev,
     "desc": "An interactive webpage using React.js" ,
     },
@@ -43,7 +44,7 @@ const projects = [
 
     {"name": "The Egg Project",
     "link": "Egg Project/index.html",
-    "image": Egg,
+    "image": Carton,
     "desc": "Interactive web design to visualize a math problem" ,
     },
 
