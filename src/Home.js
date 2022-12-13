@@ -20,7 +20,7 @@ const Home = () => {
       <div className="AppCenter">
         <div className="topBuffer"></div>
         <div style={{}}  className="bio"> 
-        <p style={{"fontSize":"calc(1.375rem + 1.0vw)"}}>Hi, my name is [Redacted]! I'm a Computer Science Student at Brown University. <b>I care about human-centered, accessible web design.</b></p>
+        <p style={{"fontSize":"calc(1.375rem + 1.0vw)"}}>Hi, my name is [Redacted]! I'm a Computer Science Student at Brown University. <b>I care about design that is clean, conscious, and deliberate.</b></p>
         
         </div>
         <div id="header">
@@ -41,7 +41,7 @@ const Home = () => {
       <div className="AppCenter">
         <div className="topBuffer"></div>
         <div style={{}} className="bio"> 
-        <p style={{"fontSize":"calc(1.375rem + 1.0vw)"}}>Hi, my name is [Redacted]! I'm a Computer Science Student at Brown University. <b>I care about human-centered, accessible web design.</b></p>
+        <p style={{"fontSize":"calc(1.375rem + 1.0vw)"}}>Hi, my name is [Redacted]! I'm a Computer Science Student at Brown University. <b>I care about design that is clean, conscious, and deliberate.</b></p>
         
         </div>
         <div id="header">

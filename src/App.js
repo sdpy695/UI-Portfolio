@@ -20,6 +20,7 @@ class App extends Component {
           <NavBar />
             <Routes>
              <Route path="/" element={<Home/>} exact/>
+             
              {/* <Route exact target="_blank" path="/CSI/" element= {new HtmlWebpackPlugin({ template: {CSI} })} />new HtmlWebpackPlugin({ template: {CSI} }) */}
              <Route path="/p" element={<Test/>} exact/>
             <Route component={Error}/>
